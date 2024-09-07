@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samant M Patil</h1>
+<h1 align="center">Hi 👋, I'm Samant M Patil <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"></h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samant-patil1&label=Profile%20views&color=0e75b6&style=flat" alt="samant-patil1" /> </p>
