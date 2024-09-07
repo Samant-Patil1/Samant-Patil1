@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samant M Patil</h1>
-<img alt="hey" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27" width="25px">
+<img alt="hey" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27" width="200px">
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samant-patil1&label=Profile%20views&color=0e75b6&style=flat" alt="samant-patil1" /> </p>
