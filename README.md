@@ -1,5 +1,5 @@
 <h1 align="center">Kon'nichiwa 👋!</h1>
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="100%" height="auto"/></a>
+<!--<a href="https://top.gg/bot/623481583411658753"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="100%" height="auto"/></a>-->
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samant-patil1&label=Profile%20views&color=0e75b6&style=flat" alt="samant-patil1" /> </p>
@@ -24,8 +24,6 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
 - 💬 Ask me about **Python, Web Dev, 3D modelling**
 
 - 📫 How to reach me **samantpatil.0425@gmail.com**
-
-- ⚡ Fun fact **I am 13.**
 
   Hobbies:
 ✨ Tech-Enthusiast
