@@ -61,13 +61,13 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
   <a href="https://linkedin.com/in/samant-patil" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <a href="https://stackoverflow.com/users/samant-patil" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="30" /></a>
   <a href="https://kaggle.com/samantpatil" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="30" /></a>
-  <a href="https://instagram.com/smp96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" /></a>
+  <!--<a href="https://instagram.com/smp96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" /></a>-->
   <a href="https://medium.com/@samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" /></a>
   <a href="https://www.codechef.com/users/samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30" /></a>
   <a href="https://www.hackerrank.com/samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="30" /></a>
   <a href="https://www.leetcode.com/samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="30" /></a>
   <a href="https://www.topcoder.com/members/samant_patil123" target="_blank"><img align="center" src="https://img.shields.io/badge/TopCoder-29A5DB?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder" height="30" /></a>
-  <a href="https://discord.gg/codesgeek96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" /></a>
+  <!--<a href="https://discord.gg/codesgeek96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" /></a>-->
   <a href="https://aviationmarvels.blogspot.com/feeds/posts/default?alt=rss" target="_blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" height="30"/></a>
 </p>
 
