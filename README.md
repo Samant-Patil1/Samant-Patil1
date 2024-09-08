@@ -1,4 +1,4 @@
-<h1 align="center">Kon'nichiwa 👋!</h1>
+<h1 align="center">Hello 👋!</h1>
 <!--<a href="https://top.gg/bot/623481583411658753"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="100%" height="auto"/></a>-->
 <h3 align="center">A passionate fullstack developer from India</h3>
 
