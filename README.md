@@ -95,4 +95,6 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="30"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" height="30"/> </a> 
+  <a href="https://www.manim.community/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Manim-5C2D91?style=for-the-badge&logo=manim&logoColor=white" alt="Manim" height="30"/></a>
+
 </p>
