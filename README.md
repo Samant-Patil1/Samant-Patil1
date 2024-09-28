@@ -69,7 +69,7 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
   <a href="https://www.hackerrank.com/samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="30" /></a>
   <a href="https://www.leetcode.com/samantpatil25" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="30" /></a>
   <a href="https://www.topcoder.com/members/samant_patil123" target="_blank"><img align="center" src="https://img.shields.io/badge/TopCoder-29A5DB?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder" height="30" /></a>
-  <!--<a href="https://discord.gg/codesgeek96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" /></a>-->
+  <a href="https://discord.gg/codesgeek96305" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" /></a>
   <a href="https://aviationmarvels.blogspot.com/feeds/posts/default?alt=rss" target="_blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" height="30"/></a>
 </p>
 
