@@ -12,9 +12,9 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently working on [NASA Hackathon](https://github.com/Samant-Patil1/NebulaNinjas/)
+- 🔭 I’m currently working on [ML](https://github.com/Samant-Patil1/ML_in_web/)
 
-- 🌱 I’m currently learning **Machine Learning Course by Andrew NG**
+- 🌱 I’m currently learning **Machine Learning Course by FCC**
 
 - 🤝 I’m looking for help with **Robot Designs(Anyone Interested can ping me. We shall create together😊)**
 
