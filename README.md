@@ -12,9 +12,9 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently working on [ML](https://github.com/Samant-Patil1/ML_in_web/)
+- 🔭 I’m currently working on [Thingiverse FiberOn Challenge](https://www.thingiverse.com/tag:fiberonfunctionaldesign#google_vignette)
 
-- 🌱 I’m currently learning **Machine Learning Course by FCC**
+- 🌱 I’m currently learning **Machine Learning Course by FCC && PCb Design and simple manufacturing(no kiddin'!)**
 
 - 🤝 I’m looking for help with **Robot Designs(Anyone Interested can ping me. We shall create together😊)**
 
