@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋!</h1>
 <a href="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif"><img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" width="100%" height="auto"/></a>
 <!--<a href="https://top.gg/bot/623481583411658753"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="100%" height="auto"/></a>-->
-<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samant-patil1&label=Profile%20views&color=0e75b6&style=flat" alt="samant-patil1" /> </p>
 
@@ -11,12 +10,6 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
 <div>
 <details>
   <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently working on [Thingiverse FiberOn Challenge](https://www.thingiverse.com/tag:fiberonfunctionaldesign#google_vignette)
-
-- 🌱 I’m currently learning **Machine Learning Course by FCC && PCb Design and simple manufacturing(no kiddin'!)**
-
-- 🤝 I’m looking for help with **Robot Designs(Anyone Interested can ping me. We shall create together😊)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samant-Patil1/](https://github.com/Samant-Patil1/)
 
@@ -32,22 +25,10 @@ Hi 👋, I am **Samant Patil** an enthusiastic and ambitious full stack develope
 ✨ IIT JEE Aspirant :) 
 ✨ Watching Anime
 ✨ Reading Webtoons
-✨ Football (Trash at it, but good at Goalkeeping XD)
 </details>
   
 </p>
   
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔥 Github Stats
 
 <!--<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>-->
